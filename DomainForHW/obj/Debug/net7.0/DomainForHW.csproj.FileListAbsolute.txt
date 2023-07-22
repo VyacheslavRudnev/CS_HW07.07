@@ -1,0 +1,12 @@
+C:\Users\Rudnev V\source\repos\DomainForHW\bin\Debug\net7.0\DomainForHW.deps.json
+C:\Users\Rudnev V\source\repos\DomainForHW\bin\Debug\net7.0\DomainForHW.dll
+C:\Users\Rudnev V\source\repos\DomainForHW\bin\Debug\net7.0\DomainForHW.pdb
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\DomainForHW.csproj.AssemblyReference.cache
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\DomainForHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\DomainForHW.AssemblyInfoInputs.cache
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\DomainForHW.AssemblyInfo.cs
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\DomainForHW.csproj.CoreCompileInputs.cache
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\DomainForHW.dll
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\refint\DomainForHW.dll
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\DomainForHW.pdb
+C:\Users\Rudnev V\source\repos\DomainForHW\obj\Debug\net7.0\ref\DomainForHW.dll
